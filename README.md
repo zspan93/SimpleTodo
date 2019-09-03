@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I faced creating this app was learning and understanding some of the meathod calls that were used and what they do to get the app to run properly.  
 
 ## License
 
