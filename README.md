@@ -32,12 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I faced creating this app was learning and understanding some of the meathod calls that were used and what they do to get the app to run properly.  
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
-
+    Copyright 2019 Zvi Greenspan
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
